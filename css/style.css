@@ -39,9 +39,9 @@
    }
    img{
     height: 220px;
-    width: 420px;
-    padding: 110px;
-    margin-top: 80px;
+    width: 450px;
+    padding: 100px;
+    margin-top: 250px;
     float: right;
    align-items: center;
    }
@@ -147,6 +147,9 @@ button{
  font-size: 20px;
  border: none;
  cursor: pointer;
+ float: right;
+margin-right: 215px;
+margin-top: 5px;
 }
 button:hover{
   background-color: #5cd092;
